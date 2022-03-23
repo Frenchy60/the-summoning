@@ -1,0 +1,142 @@
+{
+  "name": "the-summoning",
+  "title": "The Summoning",
+  "description": "",
+  "authors": [],
+  "flags": {},
+  "version": "1.0.0",
+  "scripts": [],
+  "esmodules": [],
+  "styles": [],
+  "languages": [],
+  "packs": [
+    {
+      "label": "DDB Spells",
+      "name": "ddb-the-summoning-spells",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-summoning-spells.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-spells.db"
+    },
+    {
+      "label": "DDB Items",
+      "name": "ddb-the-summoning-items",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-summoning-items.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-items.db"
+    },
+    {
+      "label": "DDB Monsters",
+      "name": "ddb-the-summoning-monsters",
+      "package": "world",
+      "type": "Actor",
+      "path": "packs/ddb-the-summoning-monsters.db",
+      "system": "dnd5e",
+      "entity": "Actor",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-monsters.db"
+    },
+    {
+      "label": "DDB Feats",
+      "name": "ddb-the-summoning-feats",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-summoning-feats.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-feats.db"
+    },
+    {
+      "label": "DDB Class Features",
+      "name": "ddb-the-summoning-class-features",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-summoning-class-features.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-class-features.db"
+    },
+    {
+      "label": "DDB Classes",
+      "name": "ddb-the-summoning-classes",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-summoning-classes.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-classes.db"
+    },
+    {
+      "label": "DDB Racial Traits",
+      "name": "ddb-the-summoning-racial-traits",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-summoning-racial-traits.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-racial-traits.db"
+    },
+    {
+      "label": "DDB Races",
+      "name": "ddb-the-summoning-races",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-summoning-races.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-races.db"
+    },
+    {
+      "label": "DDB Override",
+      "name": "ddb-the-summoning-override",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/ddb-the-summoning-override.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false,
+      "absPath": "C:\\Users\\maxim\\AppData\\Local\\FoundryVTT\\Data\\worlds\\the-summoning\\packs\\ddb-the-summoning-override.db"
+    },
+    {
+      "label": "DDB Tables",
+      "name": "ddb-the-summoning-tables",
+      "package": "world",
+      "type": "RollTable",
+      "path": "packs/ddb-the-summoning-tables.db",
+      "system": "dnd5e",
+      "entity": "RollTable",
+      "private": false
+    },
+    {
+      "label": "Temp Item",
+      "name": "srd5e-temp-item",
+      "package": "world",
+      "type": "Item",
+      "path": "packs/srd5e-temp-item.db",
+      "system": "dnd5e",
+      "entity": "Item",
+      "private": false
+    }
+  ],
+  "system": "dnd5e",
+  "dependencies": [],
+  "socket": false,
+  "protected": false,
+  "background": "Twin%20Cities%20of%20Triskel.jpg",
+  "coreVersion": "9.249",
+  "resetKeys": false,
+  "safeMode": false,
+  "systemVersion": "1.5.7"
+}
