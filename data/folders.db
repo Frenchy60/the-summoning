@@ -4,7 +4,6 @@
 {"name":"Uncommon","type":"Item","parent":"TOWkDT3c1UvqJxul","sorting":"a","sort":200000,"color":null,"flags":{"importid":"LbDFBzkXQwXZsom0"},"_id":"2fNRhfyk6gpzfPs7"}
 {"_id":"2gjtiANYXHbGe0TI","name":"Monsters","type":"Actor","parent":"MD98dkOC3JcUDoMq","sorting":"a","sort":0,"color":"","flags":{}}
 {"_id":"3MPnH37lXCD2dCtK","name":"Bretonnia","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":350000,"color":"","flags":{}}
-{"name":"OPM Originals","type":"Actor","parent":"EZ8dOJJOYAa3tmMN","sorting":"a","sort":0,"color":null,"flags":{},"_id":"3QsrC1Dod4xksejc"}
 {"_id":"3s5ZyqA2gG1xv8ck","name":"Vampire Coast","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":2000000,"color":null,"flags":{}}
 {"name":"Ingredients","type":"Item","parent":"NpLTczU44n78VzeB","sorting":"a","sort":0,"color":null,"flags":{"importid":"IGhlbWOGihstRhOh"},"_id":"4QYd7N8T8PrNM8CH"}
 {"name":"Inorganic Materials","type":"Item","parent":"4QYd7N8T8PrNM8CH","sorting":"a","sort":0,"color":null,"flags":{"importid":"zz3KR6AD5hTkA32u"},"_id":"51hbE3u4PNSKQZQG"}
@@ -18,14 +17,12 @@
 {"name":"Large Dungeon","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"e7c4584fbf15ff4939437fe9b8de2eaeb93e10b1"}},"_id":"CStFDaL8Zx9N14vU"}
 {"name":"Blast em","type":"Actor","parent":"xHtDYxjFDhTCtbpz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"CuT175dU9BOcKhah"}
 {"_id":"Czag8DYcyGubaFV5","name":"Dwarfs","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":500000,"color":null,"flags":{}}
-{"name":"Frenchy's","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"EZ8dOJJOYAa3tmMN"}
 {"name":"Caravan","type":"Actor","parent":"aLJI3Tu4Fy1I3w4j","sorting":"a","sort":0,"color":null,"flags":{},"_id":"FM2hxtCYXCHMEQOP"}
 {"name":"Common","type":"Item","parent":"TOWkDT3c1UvqJxul","sorting":"a","sort":100000,"color":null,"flags":{"importid":"b8he8CqXjOjzLHfZ"},"_id":"HYIsH9eLfyYO2pYr"}
 {"_id":"HbSz7Aa69bewAluz","name":"Tzeentch","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":1800000,"color":null,"flags":{}}
 {"name":"Creatures","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{},"_id":"Hc6fc2tp3Ekern5V"}
 {"_id":"IIN5LF0qgtBhE1uC","name":"City folk","type":"Actor","parent":"eUiNYnqnFS6oOzz7","sorting":"a","sort":100000,"color":null,"flags":{}}
 {"name":"The Bland Band Adventuring Party","type":"Actor","parent":"xHtDYxjFDhTCtbpz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"IP08Uk0ANXUIkxAK"}
-{"_id":"ImXIqoSLPunFI22A","name":"Frenchy's Scenes","type":"Scene","parent":null,"sorting":"a","sort":0,"color":"","flags":{}}
 {"name":"Goblinoid Shock Unit","type":"Actor","parent":"xHtDYxjFDhTCtbpz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"JvR19E7KAJtXlk4q"}
 {"name":"Bandit Location","type":"Scene","parent":null,"sorting":"a","sort":0,"color":null,"flags":{},"_id":"L2SmMcJtDRjDCXrz"}
 {"name":"Humanoids","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"color":null,"flags":{},"_id":"MD98dkOC3JcUDoMq"}
@@ -86,3 +83,5 @@
 {"name":"The Holy Oder","type":"Actor","parent":"xHtDYxjFDhTCtbpz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"yCMWQJaTkdvQ9EOn"}
 {"_id":"yFbEEU2q12ayrwoW","name":"Tomb Kings","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":1700000,"color":null,"flags":{}}
 {"name":"DMPC","type":"Actor","parent":"eUiNYnqnFS6oOzz7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zhnUMCxNpqrDdKG6"}
+{"name":"Large Dungeon 01","type":"Scene","parent":"eqxkjYIv4uI3e0Qh","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"8b8e8923d1fb99b73ad40ff625b04d522a50d4cc"}},"_id":"Tu4cwaNX8rDRpSP8"}
+{"$$deleted":true,"_id":"Tu4cwaNX8rDRpSP8"}
