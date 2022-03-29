@@ -85,3 +85,7 @@
 {"name":"DMPC","type":"Actor","parent":"eUiNYnqnFS6oOzz7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zhnUMCxNpqrDdKG6"}
 {"name":"Large Dungeon 01","type":"Scene","parent":"eqxkjYIv4uI3e0Qh","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"8b8e8923d1fb99b73ad40ff625b04d522a50d4cc"}},"_id":"Tu4cwaNX8rDRpSP8"}
 {"$$deleted":true,"_id":"Tu4cwaNX8rDRpSP8"}
+{"name":"Sub","type":"Actor","parent":"CStFDaL8Zx9N14vU","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"067ca118aadb81af5dc93888440ed8bf421fdb2c"}},"_id":"BVBigS2GfXwBQCwk"}
+{"_id":"BVBigS2GfXwBQCwk","name":"Sub","type":"Actor","parent":null,"sorting":"a","sort":300000,"color":null,"flags":{"scene-packer":{"hash":"067ca118aadb81af5dc93888440ed8bf421fdb2c"}}}
+{"name":"Drow","type":"Actor","parent":"MD98dkOC3JcUDoMq","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"0f391e3d354005efd5bf64fbfb728212c53b79e8"}},"_id":"YPXDB3FdbUj2K1Wa"}
+{"_id":"BVBigS2GfXwBQCwk","name":"Sub","type":"Actor","parent":"CStFDaL8Zx9N14vU","sorting":"a","sort":100000,"color":null,"flags":{"scene-packer":{"hash":"067ca118aadb81af5dc93888440ed8bf421fdb2c"}}}
