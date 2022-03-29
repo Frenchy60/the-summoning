@@ -85,3 +85,6 @@
 {"name":"The Holy Oder","type":"Actor","parent":"xHtDYxjFDhTCtbpz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"yCMWQJaTkdvQ9EOn"}
 {"_id":"yFbEEU2q12ayrwoW","name":"Tomb Kings","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":1700000,"color":null,"flags":{}}
 {"name":"DMPC","type":"Actor","parent":"eUiNYnqnFS6oOzz7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zhnUMCxNpqrDdKG6"}
+{"name":"Potions and Oils","type":"Item","parent":"NpLTczU44n78VzeB","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"3483ac7527fe3a5da366fa8d86e120b10528f044"}},"_id":"caicEqRu6bm8OM7i"}
+{"name":"Temp","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{"scene-packer":{"hash":"85ac76ad8fec3be122e9ef691ef6fe782cd394f2"}},"_id":"WyUoD5TjIiEEtMO9"}
+{"$$deleted":true,"_id":"WyUoD5TjIiEEtMO9"}
