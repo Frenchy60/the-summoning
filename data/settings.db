@@ -1,6 +1,6 @@
 {"key":"betterrolls5e.migration","value":"{\"status\":true,\"version\":\"1.7.2\"}","_id":"0OkzuXlWohnu6Tat"}
 {"key":"ddb-importer.entity-item-compendium","value":"\"world.ddb-the-summoning-items\"","_id":"1hHzWZZ4twAOzTQa"}
-{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"312"}
+{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"348"}
 {"key":"drag-ruler.dataVersion","value":"\"1.10.0\"","_id":"5whiJYZsJ4R7DbIC"}
 {"_id":"FAUaPXICwCaDf4Ak","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"NOTE_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[2,3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"FILES_BROWSE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4]}"}
 {"key":"dnd5e.systemMigrationVersion","value":"\"1.5.7\"","_id":"LYyus2XgPEypAtFC"}
@@ -22,9 +22,3 @@
 {"key":"ddb-importer.entity-feat-compendium","value":"\"world.ddb-the-summoning-feats\"","_id":"viGEMiYdtJqosHf4"}
 {"_id":"wR59D9HcJMxAe9Fo","key":"core.moduleConfiguration","value":"{\"ddb-importer\":true,\"dice-calculator\":true,\"foundryvtt-arms-reach\":true,\"lib-wrapper\":true,\"angela-maps\":true,\"betterrolls5e\":true,\"drag-ruler\":true,\"floating-combat-toolbox\":true,\"hey-wait\":true,\"mm-dungeons-and-forests-free\":true,\"merchantsheetnpc\":true,\"plutonium\":true,\"socketlib\":true,\"spellarena\":true,\"baileywiki-maps\":true,\"bmc0\":true,\"drehatlas-maps\":false,\"scene-packer\":true,\"sirzeelmaps\":true,\"tacticalmap-free\":true,\"token-attacher\":true,\"dragonfiremaps\":false,\"miskasmaps\":true,\"cozymaps-free\":true,\"lootsheetnpc5e\":true,\"milbys-maps-free\":true,\"pin-fixer\":true,\"azgaar-foundry\":false,\"adventure-import-export\":true,\"dransky-lost-mines-maps\":false,\"mikwewa-maps-free\":false,\"reclusive-cartographer-maps\":false,\"dungeon-draw\":true}"}
 {"key":"core.nue.shownTips","value":"true","_id":"wWhMyemgWAR8jBx9"}
-{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"318"}
-{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"324"}
-{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"330"}
-{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"336"}
-{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"342"}
-{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"348"}

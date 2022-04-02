@@ -47,6 +47,7 @@
 {"name":"Baileywiki Maps","type":"JournalEntry","parent":null,"sorting":"a","sort":0,"color":"#000000","flags":{},"_id":"aGPHft4H2CIY5jqs"}
 {"_id":"aLJI3Tu4Fy1I3w4j","name":"Players","type":"Actor","parent":null,"sorting":"a","sort":100000,"color":null,"flags":{}}
 {"_id":"b3MGW4n348Aarm5Y","name":"Daemons of Chaos","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":300000,"color":null,"flags":{}}
+{"name":"Potions and Oils","type":"Item","parent":"NpLTczU44n78VzeB","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"3483ac7527fe3a5da366fa8d86e120b10528f044"}},"_id":"caicEqRu6bm8OM7i"}
 {"_id":"cgrLRBESzv3okMJP","name":"Skaven","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":1400000,"color":null,"flags":{}}
 {"_id":"eKr5s47wSpjzWaXy","name":"Vampire Counts","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":2100000,"color":null,"flags":{}}
 {"_id":"eNYGeVdtk8jMpqW1","name":"Greenskins","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":1900000,"color":null,"flags":{}}
@@ -85,6 +86,25 @@
 {"name":"The Holy Oder","type":"Actor","parent":"xHtDYxjFDhTCtbpz","sorting":"a","sort":0,"color":null,"flags":{},"_id":"yCMWQJaTkdvQ9EOn"}
 {"_id":"yFbEEU2q12ayrwoW","name":"Tomb Kings","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":1700000,"color":null,"flags":{}}
 {"name":"DMPC","type":"Actor","parent":"eUiNYnqnFS6oOzz7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zhnUMCxNpqrDdKG6"}
-{"name":"Potions and Oils","type":"Item","parent":"NpLTczU44n78VzeB","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"3483ac7527fe3a5da366fa8d86e120b10528f044"}},"_id":"caicEqRu6bm8OM7i"}
-{"name":"Temp","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{"scene-packer":{"hash":"85ac76ad8fec3be122e9ef691ef6fe782cd394f2"}},"_id":"WyUoD5TjIiEEtMO9"}
-{"$$deleted":true,"_id":"WyUoD5TjIiEEtMO9"}
+{"name":"Tavern plebs","type":"Actor","parent":"xHtDYxjFDhTCtbpz","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"80ff51470118cb8db48fc1feba0175bd6577359c"}},"_id":"HakWcLFdB8vXFG1d"}
+{"name":"Undead","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"c25ae543e0be1f418f419d60a82a36954d6946d9"}},"_id":"8X5wMaugSOGAkr5g"}
+{"name":"Giant","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"ccca20c7fc55f490abe562d6865d300443d48bbd"}},"_id":"o7bX4anOZUG7xXoU"}
+{"name":"Plant","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"7a7eeb1ea1fc14419ec8fc1fc25882555bded204"}},"_id":"uRmxTE7hMigiiBs6"}
+{"name":"Dragon","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"color":null,"flags":{"scene-packer":{"hash":"3d946bfb3ba46b90532d458d050b42a6e46c5918"}},"_id":"2tjo49uv5mfihhvE"}
+{"$$deleted":true,"_id":"8jmZUeAkjvzAHldp"}
+{"name":"Elemental","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"flags":{"scene-packer":{"hash":"7f590e688bac0ca3c9467d523deee8f25a0236b5"}},"_id":"8biCqtNaWDjUu4v5"}
+{"name":"plant","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"flags":{"scene-packer":{"hash":"ecdb1afd1513b1b24407b8f37947162fd3cd5b3e"}},"_id":"TbYpZk0RuNhuEOFv"}
+{"$$deleted":true,"_id":"uRmxTE7hMigiiBs6"}
+{"_id":"MD98dkOC3JcUDoMq","name":"Humanoids","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":100000,"color":null,"flags":{}}
+{"_id":"CStFDaL8Zx9N14vU","name":"Large Dungeon","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":200000,"color":null,"flags":{"scene-packer":{"hash":"e7c4584fbf15ff4939437fe9b8de2eaeb93e10b1"}}}
+{"_id":"8X5wMaugSOGAkr5g","name":"Undead","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":300000,"color":null,"flags":{"scene-packer":{"hash":"c25ae543e0be1f418f419d60a82a36954d6946d9"}}}
+{"_id":"o7bX4anOZUG7xXoU","name":"Giant","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":400000,"color":null,"flags":{"scene-packer":{"hash":"ccca20c7fc55f490abe562d6865d300443d48bbd"}}}
+{"_id":"8biCqtNaWDjUu4v5","name":"Elemental","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":500000,"flags":{"scene-packer":{"hash":"7f590e688bac0ca3c9467d523deee8f25a0236b5"}}}
+{"_id":"2tjo49uv5mfihhvE","name":"Dragon","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":600000,"color":null,"flags":{"scene-packer":{"hash":"3d946bfb3ba46b90532d458d050b42a6e46c5918"}}}
+{"_id":"TbYpZk0RuNhuEOFv","name":"plant","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":700000,"flags":{"scene-packer":{"hash":"ecdb1afd1513b1b24407b8f37947162fd3cd5b3e"}}}
+{"_id":"hr2zcxnUO0K1eya1","name":"Lost Science","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":800000,"color":null,"flags":{}}
+{"_id":"Tc2XSoY5uvG5WtkS","name":"Beasts","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":900000,"color":null,"flags":{}}
+{"_id":"oXBCBBnHFRm8nOtN","name":"Ooze","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":1000000,"color":null,"flags":{}}
+{"_id":"0pF6uTB2EhMLaRqI","name":"Monstrosity","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":1100000,"color":null,"flags":{}}
+{"_id":"sO9t9dBROI6sTfCP","name":"Bandits","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":1200000,"flags":{}}
+{"name":"Construct","type":"Actor","parent":"Hc6fc2tp3Ekern5V","sorting":"a","sort":0,"flags":{"scene-packer":{"hash":"14daf352c74eb944a9d6355766eff2409b1494b3"}},"_id":"2TDzkervUUxkpKDJ"}
