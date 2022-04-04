@@ -93,3 +93,5 @@
 {"_id":"yFbEEU2q12ayrwoW","name":"Tomb Kings","type":"Actor","parent":"h6NAfIWmaOLwLidi","sorting":"a","sort":1700000,"color":null,"flags":{}}
 {"name":"DMPC","type":"Actor","parent":"eUiNYnqnFS6oOzz7","sorting":"a","sort":0,"color":null,"flags":{},"_id":"zhnUMCxNpqrDdKG6"}
 {"_id":"vy5K8mOtE0r44g3y","name":"The Half Pint's","type":"Actor","parent":"xHtDYxjFDhTCtbpz","sorting":"a","sort":0,"color":"","flags":{}}
+{"name":"Large Dungeon","type":"Actor","parent":null,"sorting":"a","sort":0,"flags":{"scene-packer":{"hash":"4956d275e88c4ee62cbe5a3896478e8db32bd4a2"}},"_id":"jw1gDqAwd0FTVISe"}
+{"$$deleted":true,"_id":"jw1gDqAwd0FTVISe"}
