@@ -1,6 +1,6 @@
 {"key":"betterrolls5e.migration","value":"{\"status\":true,\"version\":\"1.7.2\"}","_id":"0OkzuXlWohnu6Tat"}
 {"key":"ddb-importer.entity-item-compendium","value":"\"world.ddb-the-summoning-items\"","_id":"1hHzWZZ4twAOzTQa"}
-{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"420"}
+{"_id":"3bBnATHllHnMYX59","key":"core.time","value":"462"}
 {"key":"drag-ruler.dataVersion","value":"\"1.10.0\"","_id":"5whiJYZsJ4R7DbIC"}
 {"_id":"FAUaPXICwCaDf4Ak","key":"core.permissions","value":"{\"BROADCAST_AUDIO\":[2,3,4],\"BROADCAST_VIDEO\":[2,3,4],\"TOKEN_CONFIGURE\":[2,3,4],\"JOURNAL_CREATE\":[2,3,4],\"NOTE_CREATE\":[2,3,4],\"TEMPLATE_CREATE\":[1,2,3,4],\"ACTOR_CREATE\":[3,4],\"ITEM_CREATE\":[3,4],\"TOKEN_CREATE\":[2,3,4],\"SHOW_CURSOR\":[1,2,3,4],\"SHOW_RULER\":[1,2,3,4],\"SETTINGS_MODIFY\":[3,4],\"WALL_DOORS\":[1,2,3,4],\"FILES_UPLOAD\":[3,4],\"DRAWING_CREATE\":[2,3,4],\"FILES_BROWSE\":[2,3,4],\"MACRO_SCRIPT\":[1,2,3,4],\"MESSAGE_WHISPER\":[1,2,3,4]}"}
 {"key":"dnd5e.systemMigrationVersion","value":"\"1.5.7\"","_id":"LYyus2XgPEypAtFC"}
